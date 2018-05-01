@@ -1,0 +1,8 @@
+{
+  "name": "kuzmany/mautic-extendee-tools-bundle",
+  "type": "mautic-plugin",
+  "require": {
+    "mautic/composer-plugin": "^1.0"
+  }
+}
+
